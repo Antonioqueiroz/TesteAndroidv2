@@ -39,5 +39,3 @@ Faça um fork desse desse repositório em seu Github e ao finalizar nos envie um
 # Importante: não há prazo de entrega, faça com qualidade!
 
 # BOA SORTE!
-
-# BOA SORTE!
